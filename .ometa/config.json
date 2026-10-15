@@ -1,0 +1,9 @@
+{
+  "upstream": "Apollo-Reborn/Apollo-Reborn",
+  "name": "Apollo-Reborn",
+  "base": {
+    "name": "Apollo",
+    "bundleId": "com.christianselig.Apollo",
+    "url": "https://downloads.apolloreborn.app/apollobase.ipa"
+  }
+}
